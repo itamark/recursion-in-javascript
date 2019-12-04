@@ -1,0 +1,28 @@
+{
+  "name": "recursion-in-javascript",
+  "version": "1.0.0",
+  "description": "## prep 1. Install webpack `npm install webpack webpack-cli --save-dev` 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamark/recursion-in-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itamark/recursion-in-javascript/issues"
+  },
+  "homepage": "https://github.com/itamark/recursion-in-javascript#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
